@@ -12,7 +12,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Drafting a professional statement             | <a href="https://https://github.com/ARNOLDYONGO/Drafting-a-professional-statement">Professional statement</a>|
+| Drafting a professional statement             | <a href="https://github.com/ARNOLDYONGO/Drafting-a-professional-statement">Professional statement</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -53,7 +53,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 </div>
 
 ## Projects
-- <a href="https://https://github.com/ARNOLDYONGO/Drafting-a-professional-statement">Professional statement</a>
+- <a href="https://github.com/ARNOLDYONGO/Drafting-a-professional-statement">Professional statement</a>
 - Conducting a security audit
 - Using Linux commands to manage file permissions
 - Applying filters to SQL queries
