@@ -18,6 +18,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 | Wireshark TCP/HTTP Log Analysis          | <a href="https://github.com/ARNOLDYONGO/Wireshark-TCP-HTTP-log-report/blob/main/README.md">Wireshark TCP/HTTP Log Analysis</a>|
 |OS Hardening Techniques        | <a href="https://github.com/ARNOLDYONGO/OS-hardening-techniques/blob/main/README.md">OS Hardening Techniques</a>|
 | Network hardening tools      | <a href="https://github.com/ARNOLDYONGO/Security-Risk-Assessment-Report/blob/main/README.md">Network hardening tools</a>|
+| Using NIST Cybersecurity Framework     | <a href="https://github.com/ARNOLDYONGO/Using-NIST-Cybersecurity-Framework-t/blob/main/README.md">Using NIST Cybersecurity Framework</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -62,6 +63,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 - <a href="https://github.com/ARNOLDYONGO/Wireshark-TCP-HTTP-log-report/blob/main/README.md">Wireshark TCP/HTTP Log Analysis</a>
 - <a href="https://github.com/ARNOLDYONGO/OS-hardening-techniques/blob/main/README.md">OS Hardening Techniques</a>
 - <a href="https://github.com/ARNOLDYONGO/Security-Risk-Assessment-Report/blob/main/README.md">Network hardening tools</a>
+- <a href="https://github.com/ARNOLDYONGO/Using-NIST-Cybersecurity-Framework-t/blob/main/README.md">Using NIST Cybersecurity Framework
 - Using Linux commands to manage file permissions
 - Applying filters to SQL queries
 - Identifying vulnerabilities for a small business
