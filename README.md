@@ -19,6 +19,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 |OS Hardening Techniques        | <a href="https://github.com/ARNOLDYONGO/OS-hardening-techniques/blob/main/README.md">OS Hardening Techniques</a>|
 | Network hardening tools      | <a href="https://github.com/ARNOLDYONGO/Security-Risk-Assessment-Report/blob/main/README.md">Network hardening tools</a>|
 | Using NIST Cybersecurity Framework     | <a href="https://github.com/ARNOLDYONGO/Using-NIST-Cybersecurity-Framework-t/blob/main/README.md">Using NIST Cybersecurity Framework</a>|
+| Using Linux commands to manage file permissions      | <a href="https://github.com/ARNOLDYONGO/Using-Linux-commands-to-manage-file-permissions/blob/main/README.md">Using Linux commands to manage file permissions</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -64,7 +65,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 - <a href="https://github.com/ARNOLDYONGO/OS-hardening-techniques/blob/main/README.md">OS Hardening Techniques</a>
 - <a href="https://github.com/ARNOLDYONGO/Security-Risk-Assessment-Report/blob/main/README.md">Network hardening tools</a>
 - <a href="https://github.com/ARNOLDYONGO/Using-NIST-Cybersecurity-Framework-t/blob/main/README.md">Using NIST Cybersecurity Framework
-- Using Linux commands to manage file permissions
+- <a href="https://github.com/ARNOLDYONGO/Using-Linux-commands-to-manage-file-permissions/blob/main/README.md">Using Linux commands to manage file permissions</a>
 - Applying filters to SQL queries
 - Identifying vulnerabilities for a small business
 - Documenting incidents with an incident handler’s journal
