@@ -21,7 +21,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 | Using NIST Cybersecurity Framework     | <a href="https://github.com/ARNOLDYONGO/Using-NIST-Cybersecurity-Framework-t/blob/main/README.md">Using NIST Cybersecurity Framework</a>|
 | Using Linux commands to manage file permissions      | <a href="https://github.com/ARNOLDYONGO/Using-Linux-commands-to-manage-file-permissions/blob/main/README.md">Using Linux commands to manage file permissions</a>|
 | Apply filters to SQL queries      | <a href="https://github.com/ARNOLDYONGO/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Vulnerability Assessment Report                  | <a href="https://github.com/ARNOLDYONGO/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -67,6 +67,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 - <a href="https://github.com/ARNOLDYONGO/Using-NIST-Cybersecurity-Framework-t/blob/main/README.md">Using NIST Cybersecurity Framework
 - <a href="https://github.com/ARNOLDYONGO/Using-Linux-commands-to-manage-file-permissions/blob/main/README.md">Using Linux commands to manage file permissions</a>
 - <a href="https://github.com/ARNOLDYONGO/Apply-filters-to-SQL-queries/blob/main/README.md">Apply filters to SQL queries</a>
+- <a href="https://github.com/ARNOLDYONGO/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>
 - Identifying vulnerabilities for a small business
 - Documenting incidents with an incident handler’s journal
 - Importing and parsing a text file in a security-related scenario
