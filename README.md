@@ -24,6 +24,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 | Vulnerability Assessment Report                  | <a href="https://github.com/ARNOLDYONGO/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>|
 | Incident with an incident handler's journal | <a href="https://github.com/ARNOLDYONGO/Incident-handler-s-journal/blob/main/README.md">Incident handler's journal</a>|
 | Using a playbook to respond to a phishing incident | <a href="https://github.com/ARNOLDYONGO/Use-a-playbook-to-resond-to-a-phishing-event/blob/main/README.md">Using a playbook to respond to a phishing incident</a>|
+| Update a file through a Python algorithm | <a href="https://github.com/ARNOLDYONGO/Update-a-file-through-a-Python-algorithm/blob/main/README.md">Update a file through a Python algorithm</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -72,6 +73,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 - <a href="https://github.com/ARNOLDYONGO/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment Report</a>
 - <a href="https://github.com/ARNOLDYONGO/Incident-handler-s-journal/blob/main/README.md">Incident handler's journal</a>
 - <a href="https://github.com/ARNOLDYONGO/Use-a-playbook-to-resond-to-a-phishing-event/blob/main/README.md">Using a playbook to respond to a phishing incident</a>
+- <a href="https://github.com/ARNOLDYONGO/Update-a-file-through-a-Python-algorithm/blob/main/README.md">Update a file through a Python algorithm</a>
 - Identifying vulnerabilities for a small business
 - Documenting incidents with an incident handler’s journal
 - Importing and parsing a text file in a security-related scenario
