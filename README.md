@@ -25,7 +25,7 @@ My experience resolving client issues and optimizing processes has honed my abil
 | Incident with an incident handler's journal | <a href="https://github.com/ARNOLDYONGO/Incident-handler-s-journal/blob/main/README.md">Incident handler's journal</a>|
 | Using a playbook to respond to a phishing incident | <a href="https://github.com/ARNOLDYONGO/Use-a-playbook-to-resond-to-a-phishing-event/blob/main/README.md">Using a playbook to respond to a phishing incident</a>|
 | Update a file through a Python algorithm | <a href="https://github.com/ARNOLDYONGO/Update-a-file-through-a-Python-algorithm/blob/main/README.md">Update a file through a Python algorithm</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
@@ -33,8 +33,8 @@ My experience resolving client issues and optimizing processes has honed my abil
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2599BD?style=for-the-badge&logo=Nmap&logoColor=white" />
 
 ### Endpoint
 <div>
@@ -47,8 +47,6 @@ My experience resolving client issues and optimizing processes has honed my abil
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?style=for-the-badge&logo=google-chronicle&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
@@ -74,6 +72,4 @@ My experience resolving client issues and optimizing processes has honed my abil
 - <a href="https://github.com/ARNOLDYONGO/Incident-handler-s-journal/blob/main/README.md">Incident handler's journal</a>
 - <a href="https://github.com/ARNOLDYONGO/Use-a-playbook-to-resond-to-a-phishing-event/blob/main/README.md">Using a playbook to respond to a phishing incident</a>
 - <a href="https://github.com/ARNOLDYONGO/Update-a-file-through-a-Python-algorithm/blob/main/README.md">Update a file through a Python algorithm</a>
-- Identifying vulnerabilities for a small business
-- Documenting incidents with an incident handler’s journal
-- Importing and parsing a text file in a security-related scenario
+
