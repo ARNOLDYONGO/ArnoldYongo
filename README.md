@@ -57,6 +57,11 @@ My experience resolving client issues and optimizing processes has honed my abil
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+<a href=https://coursera.org/share/be36d6e9e0090d14cf32f7cf8839ec2a" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-000080?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
+</a>
+
+
 
 ## Projects
 - <a href="https://github.com/ARNOLDYONGO/Drafting-a-professional-statement">Professional statement</a>
