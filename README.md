@@ -51,13 +51,6 @@ My experience resolving client issues and optimizing processes has honed my abil
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-052FAD?style=for-the-badge&logo=IBM&logoColor=white)(https://www.credly.com/badges/7f545e94-9c2b-4038-aca2-20a1f52d0314/public_url" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-<a href=https://coursera.org/share/be36d6e9e0090d14cf32f7cf8839ec2a" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Google-Cybersecurity-000080?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
 </a>
 
